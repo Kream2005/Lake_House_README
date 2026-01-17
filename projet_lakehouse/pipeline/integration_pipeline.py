@@ -319,6 +319,7 @@ def run_streaming_pipeline(spark, duration_seconds=60):
     
     queries = []
     
+    
     for sensor_type in ["temperature", "vibration", "pressure"]:
         query = process_sensor_data_streaming(spark, sensor_type)
         queries.append(query)
