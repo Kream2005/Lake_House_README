@@ -1,0 +1,11 @@
+{
+  "sensor_id": "8033dfa7-7a11-4d3d-b72f-1a977a006588",
+  "type": "vibration",
+  "value": 5.926,
+  "unit": "mm/s",
+  "site": "Site_Bordeaux",
+  "machine": "Machine_B2",
+  "is_critical": false,
+  "frequency_hz": 549.5,
+  "timestamp": "2026-01-08T08:41:16.800000"
+}

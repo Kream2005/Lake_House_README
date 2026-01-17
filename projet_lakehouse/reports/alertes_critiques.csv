@@ -1,0 +1,16 @@
+alertes_critiques,site,total_mesures,type_capteur
+12,Site_Marseille,210,temperature
+14,Site_Paris,198,temperature
+10,Site_Lyon,187,temperature
+10,Site_Bordeaux,206,temperature
+8,Site_Toulouse,199,temperature
+21,Site_Marseille,217,vibration
+22,Site_Paris,194,vibration
+19,Site_Lyon,195,vibration
+23,Site_Bordeaux,226,vibration
+15,Site_Toulouse,168,vibration
+16,Site_Marseille,211,pressure
+12,Site_Lyon,196,pressure
+22,Site_Paris,192,pressure
+21,Site_Bordeaux,207,pressure
+8,Site_Toulouse,194,pressure

@@ -1,0 +1,10 @@
+{
+  "sensor_id": "4cdff6c9-3a5f-4347-960b-9b6f0ee5f505",
+  "type": "temperature",
+  "value": 53.61,
+  "unit": "Celsius",
+  "site": "Site_Marseille",
+  "machine": "Machine_C1",
+  "is_critical": false,
+  "timestamp": "2026-01-04T08:57:07.200000"
+}

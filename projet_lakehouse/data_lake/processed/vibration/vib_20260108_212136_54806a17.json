@@ -1,0 +1,11 @@
+{
+  "sensor_id": "54806a17-f1fe-43e3-b56f-90298888b538",
+  "type": "vibration",
+  "value": 10.775,
+  "unit": "mm/s",
+  "site": "Site_Lyon",
+  "machine": "Machine_C1",
+  "is_critical": true,
+  "frequency_hz": 593.4,
+  "timestamp": "2026-01-08T21:21:36"
+}

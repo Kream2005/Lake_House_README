@@ -1,0 +1,20 @@
+# Requirements pour le projet Big Data Lakehouse InduSense
+# Installation: pip install -r requirements.txt
+
+# Apache Spark et Delta Lake
+pyspark>=3.4.0
+delta-spark>=2.4.0
+
+# Utilitaires
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation (optionnel, pour analyses locales)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Pour le monitoring (optionnel)
+tqdm>=4.65.0
+
+# Pour les tests
+pytest>=7.0.0

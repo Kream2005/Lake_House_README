@@ -1,0 +1,10 @@
+{
+  "sensor_id": "e8c6c6a6-5bf4-4d3c-a5ac-c5e6ff2eaedf",
+  "type": "temperature",
+  "value": 65.51,
+  "unit": "Celsius",
+  "site": "Site_Lyon",
+  "machine": "Machine_A2",
+  "is_critical": false,
+  "timestamp": "2026-01-08T13:35:02.400000"
+}

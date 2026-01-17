@@ -1,0 +1,10 @@
+{
+  "sensor_id": "4ecb862e-a59b-4c91-bb1e-7eb39a25bf9b",
+  "type": "temperature",
+  "value": 80.57,
+  "unit": "Celsius",
+  "site": "Site_Toulouse",
+  "machine": "Machine_A2",
+  "is_critical": false,
+  "timestamp": "2026-01-04T07:49:26.400000"
+}

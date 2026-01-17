@@ -1,0 +1,11 @@
+{
+  "sensor_id": "dacb135f-5e53-4004-ae74-c786669bee03",
+  "type": "vibration",
+  "value": 3.247,
+  "unit": "mm/s",
+  "site": "Site_Marseille",
+  "machine": "Machine_A2",
+  "is_critical": false,
+  "frequency_hz": 390.7,
+  "timestamp": "2026-01-08T11:31:12"
+}

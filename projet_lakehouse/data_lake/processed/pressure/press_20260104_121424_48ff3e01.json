@@ -1,0 +1,11 @@
+{
+  "sensor_id": "48ff3e01-6374-48c8-b01f-244dc878f1ef",
+  "type": "pressure",
+  "value": 5.802,
+  "unit": "Bar",
+  "site": "Site_Lyon",
+  "machine": "Machine_B1",
+  "is_critical": false,
+  "value_pascal": 580200.0,
+  "timestamp": "2026-01-04T12:14:24"
+}

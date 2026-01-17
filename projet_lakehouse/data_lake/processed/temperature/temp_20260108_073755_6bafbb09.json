@@ -1,0 +1,10 @@
+{
+  "sensor_id": "6bafbb09-cb37-4335-a2e0-465a81a7bde5",
+  "type": "temperature",
+  "value": 20.97,
+  "unit": "Celsius",
+  "site": "Site_Bordeaux",
+  "machine": "Machine_A2",
+  "is_critical": false,
+  "timestamp": "2026-01-08T07:37:55.200000"
+}

@@ -1,0 +1,10 @@
+{
+  "sensor_id": "27599283-b75d-4a46-8f7d-ccaf82fbf2fd",
+  "type": "temperature",
+  "value": 57.66,
+  "unit": "Celsius",
+  "site": "Site_Paris",
+  "machine": "Machine_B2",
+  "is_critical": false,
+  "timestamp": "2026-01-04T06:28:48"
+}
